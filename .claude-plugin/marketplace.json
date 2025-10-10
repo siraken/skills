@@ -1,0 +1,23 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "Kento Shirasawa"
+  },
+  "plugins": [
+    {
+      "name": "common",
+      "source": "./common",
+      "description": "Common utilities and tools"
+    },
+    {
+      "name": "dev",
+      "source": "./dev",
+      "description": "Development and testing tools"
+    },
+    {
+      "name": "github",
+      "source": "./github",
+      "description": "GitHub integration plugin"
+    }
+  ]
+}
