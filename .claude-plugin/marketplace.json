@@ -1,12 +1,13 @@
 {
   "name": "claude-plugins",
   "metadata": {
-    "description": "A collection of Claude plugins for various functionalities"
+    "description": "A collection of Claude plugins for various functionalities",
+    "version": "0.0.1"
   },
-  "version": "0.0.1",
   "owner": {
     "name": "Kento Shirasawa",
-    "email": "shirasawa@novalumo.com"
+    "email": "shirasawa@novalumo.com",
+    "url": "https://siraken.net"
   },
   "plugins": [
     {
