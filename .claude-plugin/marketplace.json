@@ -1,5 +1,5 @@
 {
-  "name": "claude-plugins",
+  "name": "siraken-plugins",
   "metadata": {
     "description": "A collection of Claude plugins for various functionalities",
     "version": "0.0.1"
