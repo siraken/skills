@@ -3,6 +3,7 @@
   "description": "GitHub integration plugin",
   "version": "0.0.1",
   "author": {
-    "name": "Kento Shirasawa"
+    "name": "Kento Shirasawa",
+    "email": "shirasawa@novalumo.com"
   }
 }

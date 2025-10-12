@@ -1,7 +1,12 @@
 {
   "name": "claude-plugins",
+  "metadata": {
+    "description": "A collection of Claude plugins for various functionalities"
+  },
+  "version": "0.0.1",
   "owner": {
-    "name": "Kento Shirasawa"
+    "name": "Kento Shirasawa",
+    "email": "shirasawa@novalumo.com"
   },
   "plugins": [
     {
