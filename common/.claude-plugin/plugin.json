@@ -1,9 +1,0 @@
-{
-  "name": "common",
-  "description": "Common utilities and tools",
-  "version": "0.0.1",
-  "author": {
-    "name": "Kento Shirasawa",
-    "email": "shirasawa@novalumo.com"
-  }
-}
