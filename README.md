@@ -7,9 +7,7 @@ collection of agent skills for Claude Code and other AI coding agents.
 
 - **gemini-search** — Web search via the Google Gemini CLI.
 - **github-issue-runner** — Execute a GitHub Issue end to end (branch → implement → PR).
-- **task-orchestrator** — Split complex tasks into sequential steps with parallel subtasks.
 - **refactor-suggestions** — Review the project and suggest concrete refactorings.
-- **conventional-commit** — Commit following the Conventional Commits specification.
 
 ## Install
 
