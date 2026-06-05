@@ -1,0 +1,11 @@
+name: siraken-skills
+version: 0.1.0
+description: >-
+  siraken's collection of agent skills — web search, GitHub issue execution,
+  task orchestration, refactoring suggestions, and conventional commits.
+author: siraken
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
