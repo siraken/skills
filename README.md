@@ -5,6 +5,7 @@ collection of agent skills for Claude Code and other AI coding agents.
 
 ## Skills
 
+- **communication-review** — Checklist for drafting, reviewing, and posting questions, requests, and reports to other people (issue/PR comments, chat).
 - **gemini-search** — Web search via the Google Gemini CLI.
 - **github-issue-runner** — Execute a GitHub Issue end to end (branch → implement → PR).
 - **refactor-suggestions** — Review the project and suggest concrete refactorings.
