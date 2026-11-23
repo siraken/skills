@@ -9,6 +9,7 @@ collection of agent skills for Claude Code and other AI coding agents.
 - **gemini-search** — Web search via the Google Gemini CLI.
 - **github-issue-runner** — Execute a GitHub Issue end to end (branch → implement → PR).
 - **refactor-suggestions** — Review the project and suggest concrete refactorings.
+- **verify-dotfiles** — Check that a change to the siraken/dotfiles Nix configuration reaches the evaluated generation and the running machine, without building or switching.
 
 ## Install
 
