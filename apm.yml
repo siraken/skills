@@ -2,7 +2,8 @@ name: siraken-skills
 version: 0.1.0
 description: >-
   siraken's collection of agent skills — web search, GitHub issue execution,
-  refactoring suggestions, and outgoing communication review.
+  refactoring suggestions, outgoing communication review, and dotfiles
+  change verification.
 author: siraken
 dependencies:
   apm: []
